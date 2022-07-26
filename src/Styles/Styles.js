@@ -33,6 +33,9 @@ export const Title2 = styled.h2`
        font-size: 48px;
        line-height: 71px;
     }
+    @media  (min-width: 769px) and (max-width: 1200px){
+        font-size: 48px;
+    }
 `;
 
 export const Message = styled.p`
@@ -48,9 +51,14 @@ export const Message = styled.p`
     margin-block: 25px;
 
     @media (max-width: 768px) {
-        width: 80%;
+    width: 80%;
        font-size: 18px;
        line-height: 27px;
+  }
+  @media (min-width: 769px) {
+    width: 90%;
+    font-size: 20px;
+    line-height: 36px;
   }
 `;
 
@@ -69,6 +77,13 @@ export const MainContainer = styled.div`
         height: 90vh;
   }
 
+  @media (min-width: 769px){
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        height: 89vh;
+  }
 `;
 
 export const Container = styled.div`
@@ -80,6 +95,11 @@ export const Container = styled.div`
     display: flex;
     flex-direction: column;
     width: 90vw;
+  }
+  @media (min-width: 769px) {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
   }
 `;
 
@@ -103,6 +123,12 @@ export const Button = styled.button`
        line-height: 21px;
        margin-top: 25px;
   }
+
+  @media (min-width: 769px) {
+        font-size: 14px;
+        line-height: 21px;
+        width: 60%;
+  }
 `;
 
 export const Image = styled.img`
@@ -111,6 +137,9 @@ export const Image = styled.img`
 
     @media (max-width: 768px) {
     width: 80%;
+  }
+  @media (min-width: 769px) {
+        width: 40%;
   }
 `;
 
