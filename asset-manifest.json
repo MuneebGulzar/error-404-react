@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/error-404-react/static/js/main.4a291d82.js",
+    "main.js": "/error-404-react/static/js/main.6f6e1a18.js",
     "static/media/Scarecrow.png": "/error-404-react/static/media/Scarecrow.633430866163f4a7e8f2.png",
     "index.html": "/error-404-react/index.html",
-    "main.4a291d82.js.map": "/error-404-react/static/js/main.4a291d82.js.map"
+    "main.6f6e1a18.js.map": "/error-404-react/static/js/main.6f6e1a18.js.map"
   },
   "entrypoints": [
-    "static/js/main.4a291d82.js"
+    "static/js/main.6f6e1a18.js"
   ]
 }
