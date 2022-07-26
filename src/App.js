@@ -1,5 +1,6 @@
 import { GlobalStyle, MainContainer, Title, Image, Container, Title2, Message, Button, Footer, Link, FooterContainer } from "./Styles/Styles";
 import Scarecrow from './img/Scarecrow.png';
+import Desktop from './img/Desktop.png';
 function App() {
   return (
     <>
