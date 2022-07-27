@@ -37,13 +37,11 @@
 
 ![screenshot](https://github.com/MuneebGulzar/error-404-react/blob/gh-pages/static/media/Desktop.fcd3d40a594cd3f2dddc.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
   You can see the demo of my soution at https://muneebgulzar.github.io/error-404-react/
-- What was your experience?
+
   It has been great experience doing this challange as it has helped me know better Styled Components.
-- What have you learned/improved?
+
   I have imporoved the use of Flex and learned the use use of Styled Componentes in react.
 
 ### Built With
