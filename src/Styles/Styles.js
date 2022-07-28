@@ -154,6 +154,12 @@ export const FooterContainer = styled.div`
         bottom: 1vh;
         margin-top: 10vh;
   }
+
+  @media (min-width: 769px) {
+    position: relative;
+    width: 100vw;
+    bottom: 1vh;
+  }
 `;
 export const Footer = styled.footer`
     p{
@@ -175,6 +181,11 @@ export const Footer = styled.footer`
         width: 100%;
         bottom: 20px;
         margin-top: 50px;
+  }
+
+  @media (min-width: 769px) {
+    width: 100vw;
+    bottom: 1vh;
   }
 `;
 
